@@ -1,0 +1,1 @@
+trtexec --onnx=best.onnx --saveEngine=best_fp16.engine --fp16
